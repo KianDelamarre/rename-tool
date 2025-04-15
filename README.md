@@ -20,7 +20,7 @@
   
   rename -n <folder> "s1e02" --> "02"
   
-                     "s1e23" --> "22"
+  - - - - - - - - -  "s1e23" --> "22"
                      
   rename -b <folder> wano "[909-910] Wano 01 [720p]" --> "wano 01"
   
